@@ -1,0 +1,46 @@
+body{
+    background-color: beige;
+}
+ul{
+    position:absolute;
+    list-style: none;
+    border: 2px solid lightcoral;
+    padding: 0;
+    font-weight: bold;
+    background-color: beige;
+    color: lightcoral;
+    border-radius: 3px;
+    margin: 0;
+}
+fieldset{
+    background-color: lightcoral;
+    border-radius: 5px;
+    padding: 40px 15px 15px 15px;
+    width: 180px;
+    color: beige;
+    font-weight: bold;
+    border: none;
+
+}
+legend{
+    position: absolute;
+    font-size: 20px;
+    top: 15px;
+}
+input {
+    background-color: beige;
+    border-radius: 3px;
+    border: none;
+    padding: 5px 5px 5px 15px;
+    color: lightcoral;
+    font-weight: bold;
+}
+li{
+    border: 1px solid lightcoral;
+    padding: 3px 20px;
+    margin: 0;
+}
+li:hover{
+    color:white;
+    background-color: lightcoral;
+}
